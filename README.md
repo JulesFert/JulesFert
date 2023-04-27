@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulesFert
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning Web development, HTML/CSS. 
+- 🌱 I’m currently learning Web development, PHP/Symfony, JS, MVC Architecture, CRUD and Agile method
 - 📫 How to reach me linkedin.com/in/julesfert
 
 <!---
