@@ -20,7 +20,7 @@ Je suis un passionné de développement web spécialisé en PHP Symfony, et je s
 
 Voici quelques-uns de mes projets notables :
 
-- **CryptiWiki :** Site internet de type "wiki" sur le thème des cryptides (créatures légendaires) --> Ici ce qui suit [Lien](Cryptiwiki.fr "titre de lien optionnel").
+- **CryptiWiki :** Site internet de type "wiki" sur le thème des cryptides (créatures légendaires) --> [Cryptiwiki.fr](Cryptiwiki.fr "titre de lien optionnel").
 - **Projet 2 :** Site web e-commerce avec intégration de paiement.
 - **Projet 3 :** Plateforme de blogging intuitive avec interface d'administration.
 
