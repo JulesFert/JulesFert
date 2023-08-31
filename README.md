@@ -30,6 +30,6 @@ Pour en savoir plus sur ces projets, n'hésitez pas à consulter mon [portfolio 
 
 📫 Vous pouvez me contacter par e-mail à l'adresse [jfert.lyon@gmail.com](mailto:jfert.lyon@gmail.com) pour toute opportunité professionnelle.
 
-N'hésitez pas à me suivre sur [LinkedIn](www.linkedin.com/in/julesfert) pour rester informé de mes dernières actualités.
+N'hésitez pas à me suivre sur [LinkedIn]([www.linkedin.com/in/julesfert](https://www.linkedin.com/in/julesfert/)) pour rester informé de mes dernières actualités.
 
 Merci d'avoir pris le temps de consulter mon portfolio !
