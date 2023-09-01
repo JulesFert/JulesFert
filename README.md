@@ -24,7 +24,7 @@ Voici quelques-uns de mes projets notables :
 - **Pokédex :** Site web représentant un Pokédex de première génération.
 - **Autypik Tatoo :** Site vitrine réalisé pour un artiste.
 
-Pour en savoir plus sur ces projets, n'hésitez pas à consulter mon [portfolio complet](Julesfert-dev.fr) !
+Pour en savoir plus sur ces projets, n'hésitez pas à consulter mon [portfolio complet]([Julesfert-dev.fr](http://julesfert-dev.fr/)) !
 
 ## Contact
 
